@@ -1,2 +1,2 @@
 # ProgLang
-ML/C/Prolog/Python/Java
+ML/C/Prolog/Python/Java Exercises
